@@ -1,0 +1,6 @@
+Case RCData "Case.txt"
+Lang_EnCaps RCData "Lang_EnCaps.txt"
+Lang_EnNoCaps RCData "Lang_EnNoCaps.txt"
+Lang_RuCaps RCData "Lang_RuCaps.txt"
+Lang_RuNoCaps RCData "Lang_RuNoCaps.txt"
+Translit RCData "Translit.txt"
